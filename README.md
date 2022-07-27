@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vijaybhingade
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning new languages like R 
+- 🌱 I’m currently learning new languages
 - 💞️ I’m looking to collaborate on new position for development
 - 📫 How to reach me contact on 8625897205 and vijaybhingade@gmail.com
 
